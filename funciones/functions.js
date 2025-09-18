@@ -9,3 +9,4 @@
     console.log(typeof activateBatiSignal);
     const heroName = returnName();
 })();
+export {};

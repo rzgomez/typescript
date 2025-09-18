@@ -5,3 +5,4 @@
     const name = fullName('Tony', 'Stark');
     console.log({ name });
 })();
+export {};
