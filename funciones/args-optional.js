@@ -6,3 +6,4 @@
     console.log({ name });
 })();
 export {};
+//# sourceMappingURL=args-optional.js.map

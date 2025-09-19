@@ -1,6 +1,4 @@
 (() => {
-    // strictNullChecks
-    //let isActive: boolean = null;
-    //console.log(nada)
 })();
 export {};
+//# sourceMappingURL=null-undefined.js.map

@@ -34,8 +34,8 @@ const apocalipsis = {
     lider: true,
     miembros: ["Magneto", "Tormenta", "Psylocke", "Angel"]
 };
-console.log(apocalipsis);
 let mystique;
 mystique = charles;
 mystique = apocalipsis;
-//# sourceMappingURL=app.js.map
+export {};
+//# sourceMappingURL=app-act3.js.map

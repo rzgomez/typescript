@@ -7,3 +7,4 @@
     console.log(batman[10]?.toUpperCase || 'No está presente');
 })();
 export {};
+//# sourceMappingURL=strings.js.map

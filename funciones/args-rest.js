@@ -6,3 +6,4 @@
     console.log({ superman });
 })();
 export {};
+//# sourceMappingURL=args-rest.js.map

@@ -11,3 +11,4 @@
     console.log({ name });
 })();
 export {};
+//# sourceMappingURL=args-default.js.map

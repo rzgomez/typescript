@@ -9,3 +9,4 @@
     console.log(a);
 })();
 export {};
+//# sourceMappingURL=void.js.map

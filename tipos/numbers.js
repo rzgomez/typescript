@@ -12,3 +12,4 @@
     console.log({ avengers });
 })();
 export {};
+//# sourceMappingURL=numbers.js.map

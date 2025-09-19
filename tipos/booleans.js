@@ -6,3 +6,4 @@
     console.log({ isBatman });
 })();
 export {};
+//# sourceMappingURL=booleans.js.map

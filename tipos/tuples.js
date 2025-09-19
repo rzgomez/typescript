@@ -6,3 +6,4 @@
     console.log(hero);
 })();
 export {};
+//# sourceMappingURL=tuples.js.map
