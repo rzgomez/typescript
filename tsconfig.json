@@ -7,7 +7,7 @@
 
     // Environment Settings
     // See also https://aka.ms/tsconfig/module
-    "module": "amd",
+    "module": "esnext",
     "target": "esnext",
     "types": [],
     // For nodejs:
@@ -20,7 +20,7 @@
     "declaration": false,
     "declarationMap": false,
     "removeComments": true,
-    "outFile": "./main.js",
+    //"outFile": "./main.js",
 
     // Stricter Typechecking Options
     "noUncheckedIndexedAccess": true,
@@ -47,7 +47,7 @@
   "exclude": [
     "node_modules copy"
   ],
-  // "include": [
-  //   "node_modules"
-  // ]
+  "include": [
+    "ES6"
+  ]
 }

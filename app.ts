@@ -37,7 +37,7 @@ type Villano = {
 }
 
 const villanos: Villano[] = [{
-  nombre:"Lex Luthor",
+  nombre:"Lex Luthor S.",
   edad: 54,
   mutante:false
 },{
